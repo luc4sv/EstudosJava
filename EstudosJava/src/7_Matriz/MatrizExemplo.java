@@ -13,7 +13,7 @@ public class MatrizExemplo {
             for (int j = 0; j < matriz[i].length; j++) {
                 System.out.print(matriz[i][j] + " ");
             }
-            System.out.println(); // Quebra de linha após cada linha da matriz
+            System.out.println();
         }
     }
 }
